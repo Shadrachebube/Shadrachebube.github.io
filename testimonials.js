@@ -21,7 +21,7 @@ const testimonials = [
     },
 
     {
-      quote: "We worked with <b>Ebube</b> on a major <b> web and brand redesign project</b>, and I highly recommend them without hesitation. They are very <i> talented, thorough, and professional--full of creative ideas and timely in execution.</i> <br><i class='bx bxs-quote-alt-left ic'></i>",
+      quote: "We worked with <b>Ebube</b> on a major <b> web and brand redesign project</b>, and I highly recommend them without hesitation. They are very <i> talented, thorough, and professionals full of creative ideas and timely in execution.</i> <br><i class='bx bxs-quote-alt-left ic'></i>",
       avatar: "e14",
       name:"Shalom Flames",
       title: "Former M.D,<br> Bowdoin International<br> Music Festival" 
@@ -37,7 +37,7 @@ const testimonials = [
 
     
     {
-      quote: "I recommend <b>Ebube</b> for any college, university, or institution that is looking to enhance their digital communications. Ebube was easy to work with, knowledgeable, and guided the former college where I worked at through a comprehensive web re-design project. The caliber of their work speaks for itself. <br><i class='bx bxs-quote-alt-left ic'></i>",
+      quote: "I recommend <b>Ebube</b> for any college, university, or institution that is looking to enhance their digital communications. Ebube's Team was easy to work with, knowledgeable, and guided the former college where I worked at through a comprehensive web re-design project. The caliber of their work speaks for itself. <br><i class='bx bxs-quote-alt-left ic'></i>",
       avatar: "e16",
       name:"Clement Ikechukwu",
       title: "Blochain Developer, <br>Dean Software Depart.<br> Digitmoni Academy" 
