@@ -29,7 +29,7 @@ const testimonials = [
 
     
     {
-      quote: "The team at <b>Ebube</b> went above and beyond to ensure our website was the best it could be. We could not be more pleased with our website results and ERI's ongoing service. We highly recommend them.<br><i class='bx bxs-quote-alt-left ic'></i>",
+      quote: "The team at <b>Ebube</b> went above and beyond to ensure our website was the best it could be. We could not be more pleased with our website results and Ebube's ongoing service. We highly recommend them.<br><i class='bx bxs-quote-alt-left ic'></i>",
       avatar: "e11",
       name:"Denis Don",
       title: "CEO & President, <br>Dons Techhub Inc" 
@@ -37,7 +37,7 @@ const testimonials = [
 
     
     {
-      quote: "I recommend <b>Ebube</b> for any college, university, or institution that is looking to enhance their digital communications. ERI was easy to work with, knowledgeable, and guided the former college where I worked at through a comprehensive web re-design project. The caliber of their work speaks for itself. <br><i class='bx bxs-quote-alt-left ic'></i>",
+      quote: "I recommend <b>Ebube</b> for any college, university, or institution that is looking to enhance their digital communications. Ebube was easy to work with, knowledgeable, and guided the former college where I worked at through a comprehensive web re-design project. The caliber of their work speaks for itself. <br><i class='bx bxs-quote-alt-left ic'></i>",
       avatar: "e16",
       name:"Clement Ikechukwu",
       title: "Blochain Developer, <br>Dean Software Depart.<br> Digitmoni Academy" 
